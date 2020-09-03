@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="277px" height="64px" viewBox="0 0 277 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>NPP</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="NPP">
+            <path d="M26.0506025,63.2219244 L142.050603,63.2219244 L142.050603,4.97379915e-14 L26.5502641,4.97379915e-14 C8.85008803,4.97379915e-14 -3.26849658e-13,10.5369874 -3.26849658e-13,31.6109622 C-3.26849658e-13,52.684937 8.68353418,63.2219244 26.0506025,63.2219244 Z" id="Path-7" fill="#4AABD9" fill-rule="evenodd"></path>
+            <path d="M141.305393,63.2219244 L257.305393,63.2219244 C270.171046,63.2219244 276.603873,52.8146163 276.603873,32 C276.603873,11.1853837 270.171046,0.518717066 257.305393,2.16715534e-13 L141.805055,2.16715534e-13 L141.305393,63.2219244 Z" id="Path-7" fill="#1E73C0" fill-rule="evenodd"></path>
+            <text id="Pay" font-family="Arial-Black, Arial Black" font-size="40" font-weight="700" fill="#FFFFFF">
+                <tspan x="60" y="45">Pay</tspan>
+            </text>
+            <text id="Pal" font-family="Arial-Black, Arial Black" font-size="40" font-weight="700" fill="#FFFFFF">
+                <tspan x="144" y="47">Pal</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
